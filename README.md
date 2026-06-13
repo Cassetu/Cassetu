@@ -1,10 +1,6 @@
 <h3 align="center">Guy from America (Insert Eagle SFX)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cassetu&label=Profile%20views&color=0e75b6&style=flat" alt="cassetu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cassetu" alt="cassetu" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Youtube!:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/cassetu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cassetu" height="30" width="40" /></a>
 </p>
