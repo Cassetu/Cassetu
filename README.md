@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cassetu/Cassetu/main/banner.jpg" alt="Banner" height="180px" width="auto">
+  <img src="https://raw.githubusercontent.com/Cassetu/Cassetu/main/wp1902566.jpg" alt="Banner" height="200vh" width="100%">
 </p>
 
 <h3 align="center">Cassetu</h3>
