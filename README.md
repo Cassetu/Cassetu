@@ -1,5 +1,10 @@
-<h3 align="center">Guy from America (Insert Eagle SFX)</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cassetu/Cassetu/main/banner.jpg" alt="Banner" height="180px" width="auto">
+</p>
 
+<h3 align="center">Cassetu</h3>
+
+<p>Game, Software, app developer.</p>
 <h3 align="left">Youtube! (Subscribe :D):</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/cassetu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cassetu" height="30" width="40" /></a>
