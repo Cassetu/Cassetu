@@ -33,6 +33,7 @@
 
 <h3 align="left">Wanna learn a few things?</h3>
 <p>Novara is a free learning platform. It offers many free and comprehensive courses. Create an account with google to save your progress across devices!</p>
+
 <p align="left">
   <a href="https://cassetu.github.io/Novara/index.html">
     <img src="https://img.shields.io/badge/Try%20Novara%20on-Github Pages-9fdfbf?style=for-the-badge&logo=github&logoColor=white">
@@ -40,6 +41,7 @@
   <a href="https://github.com/Cassetu/Novara#-novara---a-gateway-to-learning">
     <img src="https://img.shields.io/badge/Novara%20README%20on-Github-9fdfbf?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <a href="https://hackatime-badge.hackclub.com"><img src="https://hackatime.hackclub.com/api/v1/badge/U0B7KLS4R9R/Cassetu/Novara?color=77BBA2" alt="Work time"></a>
 </p>
 <p>Novara also has a built in Theme Tool, so rather than getting some ai slop ui, you can personalize your own! <a href="https://cassetu.github.io/Novara/html/themeTool.html">Click to try it out</a>!</p>
 
