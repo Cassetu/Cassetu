@@ -16,8 +16,10 @@
   I have a Youtube channel with all of my Minecraft Builds! Subscribe:
 <a href="https://www.youtube.com/@Cassetu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cassetu" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Play My Games!</h3>
+<p align="center">
+  <img src="Screenshot 2026-08-12 151709 (1).png" alt="Banner" width="10%">
+</p>
 <p>Ataraxia is a simple 2D Puzzle game. Use wasd to move a cube to the finish square. Pixel art assets drawn by me! :D</p>
 <p align="left">
   <a href="https://cassetu.itch.io/ataraxia">
