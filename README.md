@@ -24,6 +24,9 @@
     <img src="https://img.shields.io/badge/Play%20Ataraxia%20on-Itch.io-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white">
   </a>
 </p>
+<p align="center">
+  <img src="Screenshot 2026-08-12 151709 (1).png" alt="Banner" height="200vh" width="100%">
+</p>
 <p>Dunmere is an 3D First Person Roguelite. Use wasd to move you character around, space to roll, and left click to attack! Assets and Sfx all properly attributed! Game developed in the Godot game Engine</p>
 <p align="left">
   <a href="https://cassetu.itch.io/dunmere">
