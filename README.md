@@ -18,7 +18,7 @@
 </p>
 <h3 align="left">Play My Games!</h3>
 <p align="center">
-  <img src="Screenshot 2026-08-12 151709 (1).png" alt="Banner" width="10%">
+  <img src="Screenshot 2026-08-12 154405.png" alt="Banner" width="100%">
 </p>
 <p>Ataraxia is a simple 2D Puzzle game. Use wasd to move a cube to the finish square. Pixel art assets drawn by me! :D</p>
 <p align="left">
@@ -27,7 +27,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="Screenshot 2026-08-12 151709 (1).png" alt="Banner" height="200vh" width="100%">
+  <img src="Screenshot 2026-08-12 151709 (1).png" alt="Banner" width="100%">
 </p>
 <p>Dunmere is an 3D First Person Roguelite. Use wasd to move you character around, space to roll, and left click to attack! Assets and Sfx all properly attributed! Game developed in the Godot game Engine</p>
 <p align="left">
